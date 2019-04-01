@@ -345,9 +345,8 @@ while True:
 ```
 # Documentation:
 1. To run this project, clone or download this project on your computer.
-2. After downoloading the project, open the python3 software if you installed already, otherwise download python software and install on 
-   your computer.
-3. Navigate to the project folder to run this project using command as mentioned below:
+2. After downoloading the project, open the python3 software if you installed already, otherwise download python 3 software and install    on your computer.
+3. Open command prompt, Navigate to the project folder to run this project using command as mentioned below:
 
   	      $ cd source
 4. After navigation of project folder path, click on program files and open the files on your workspace and save it.
