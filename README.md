@@ -182,7 +182,7 @@ from placement import PlacementManagement,CoreCompanies,ITCompanies
 Student_data: (dict) {id_number: placement management Object} holds all the accounts created during the session.
 core_data: (dict) {id_number: CoreCompanies Object}
 IT_data: (dict) {id_number: ITCompanies Object}
-id_number: (int) - Set to 0 by default ,id number . allocation starts here. Incremented after every new placement data
+id_number: (int) - Set to 100 by default ,id number . allocation starts here. Incremented after every new placement data
 creation 
 """
 core_data={}
