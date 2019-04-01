@@ -39,7 +39,7 @@ Below, based on this flowchart I’ve written the boilerplate code for the appli
 # code
 ## placement.py
 
-```
+```python
 IT_companies={"Accenture":6.7, "Mindtree":7, "Apple":8.5, "Infosis":8}
 core_companies={"Bosch":7.2, "Sankalp":8, "Siemen":8.5, "Shnieder":7.8}
 companies={"Accenture":6.7, "Mindtree":7, "Apple":8.5, "Infosis":8, "Bosch":7.2, "Sankalp":8, "Siemen":8.5, "Schnieder":7.8}
@@ -175,7 +175,7 @@ class ITCompanies(PlacementManagement):
 ```
 ## main.py
 
-```
+```python
 from placement import PlacementManagement,CoreCompanies,ITCompanies
 """ 
 **Variables** 
