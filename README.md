@@ -225,6 +225,7 @@ while True:
 			continue
 
 		# Use the current id_number count to assign an id number and save the object as students_data
+		
 		students_data[id_number]=PlacementManagement(name, usn,cgpa, email, branch, id_number, password)
 		core_data[id_number]=CoreCompanies(name, usn,cgpa, email, branch, id_number, password)
 		IT_data[id_number]=ITCompanies(name, usn,cgpa, email, branch, id_number, password)
