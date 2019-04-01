@@ -38,7 +38,7 @@ Now, we have all the required methods for creating a placement data. But, to ask
 Below, based on this flowchart I’ve written the boilerplate code for the application. I also want you to do the same for your application.*
 
 # Boilerplate code for Complete Project
-# placement.py 
+**placement.py**
 ```python
 IT_companies={"Accenture":6.7, "Mindtree":7, "Apple":8.5, "Infosis":8}
 core_companies={"Bosch":7.2, "Sankalp":8, "Siemen":8.5, "Shnieder":7.8}
@@ -174,7 +174,7 @@ class ITCompanies(PlacementManagement):
 				print("\nSorry! what  you entered company name is not available:")
 ``` 
 
-# main.py
+**main.py**
 ```python
 from placement import PlacementManagement,CoreCompanies,ITCompanies
 """ 
