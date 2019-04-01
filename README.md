@@ -30,6 +30,16 @@ Now, we have all the required methods for creating a placement data. But, to ask
 
 	1. Core companies
 	2. IT companies
+# Documentation
+To run this project, clone or download this project on your computer.
+
+Navigate to the project folder
+ 
+  	$ cd source
+Run main.py to execute the program
+
+	$ python main.py
+
 # Flow chart
 ![WhatsApp Image 2019-04-01 at 9 07 20 PM](https://user-images.githubusercontent.com/49069957/55340473-66682280-54c2-11e9-8c85-44c9925f2d8f.jpeg)
 
