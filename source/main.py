@@ -4,7 +4,7 @@ from placement import PlacementManagement,CoreCompanies,ITCompanies
 Student_data: (dict) {id_number: placement management Object} holds all the accounts created during the session.
 core_data: (dict) {id_number: CoreCompanies Object}
 IT_data: (dict) {id_number: ITCompanies Object}
-id_number: (int) - Set to 0 by default ,id number . allocation starts here. Incremented after every new placement data
+id_number: (int) - Set to 100 by default ,id number . allocation starts here. Incremented after every new placement data
 creation 
 """
 core_data={}
@@ -47,6 +47,7 @@ while True:
 			continue
 
 		# Use the current id_number count to assign an id number and save the object as students_data
+		
 		students_data[id_number]=PlacementManagement(name, usn,cgpa, email, branch, id_number, password)
 		core_data[id_number]=CoreCompanies(name, usn,cgpa, email, branch, id_number, password)
 		IT_data[id_number]=ITCompanies(name, usn,cgpa, email, branch, id_number, password)
