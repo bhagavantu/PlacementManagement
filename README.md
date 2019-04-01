@@ -1,7 +1,7 @@
 **Building a placement Management Console Application**
 ==
 
-**Step 1: Project Architecture:**
+**Project Architecture:**
 
 1. There are 8 different attributes of the project. They are:
 	* Student Name
