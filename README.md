@@ -30,15 +30,6 @@ Now, we have all the required methods for creating a placement data. But, to ask
 
 	1. Core companies
 	2. IT companies
-# Documentation
-To run this project, clone or download this project on your computer.
-
-Navigate to the project folder
- 
-  	$ cd source
-Run main.py to execute the program
-
-	$ python main.py
 
 # Flow chart
 ![WhatsApp Image 2019-04-01 at 9 07 20 PM](https://user-images.githubusercontent.com/49069957/55340473-66682280-54c2-11e9-8c85-44c9925f2d8f.jpeg)
@@ -352,3 +343,15 @@ while True:
 
 
 ```
+# Documentation:
+1. To run this project, clone or download this project on your computer.
+2. After downoloading the project, open the python3 software if you installed already, otherwise download python software and install on 
+   your computer.
+3. Navigate to the project folder to run this project using command as mentioned below:
+
+  	      $ cd source
+4. After navigation of project folder path, click on program files and open the files on your workspace and save it.
+5. To run this project ,Run main.py to execute the program using command as mentioned below:
+
+	      $ python main.py
+6. After executing the program you can follow the instructions as displayed on your computer and while executing the program you need to    enter valid details then only you can get the correct output
