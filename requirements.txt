@@ -1,2 +1,4 @@
 Software required:
 * Python 3 
+* Commnad Promt
+
