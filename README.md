@@ -46,7 +46,7 @@ Below, based on this flowchart I’ve written the boilerplate code for the appli
 
   	      $ cd PlacementManagement/sources
 4. After navigation of project folder path, click on program files and open the files on your workspace and save it.
-5. To run this project, Run main.py to execute the program using command as mentioned below:
+5. To run this project, you have to Run main.py and execute the program using command as mentioned below:
 
 	      $ python main.py
-6. After executing the program you can follow the instructions as displayed on your computer and while executing the program you need to    enter valid details then only you can get the correct output
+6. After running the program you can follow the instructions as displayed on your computer and while executing the program you need to      enter valid details then only you can get the correct output
