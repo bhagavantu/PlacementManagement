@@ -1,4 +1,4 @@
-**Building a placement Management Console Application**
+**Building a Placement Management Console Application**
 ==
 
 **Project Architecture:**
