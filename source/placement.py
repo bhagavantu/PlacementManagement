@@ -114,7 +114,7 @@ class ITCompanies(PlacementManagement):
 	def applied(self):
 		# To find the various of companies available for the student
 		if self.cgpa>6.5:
-			print("Hey! you can see here list of  core companies and Required cgpa for job application:\n")
+			print("Hey! you can see here list of  IT companies and Required cgpa for job application:\n")
 
 
 		for key, value in IT_companies.items():
@@ -124,7 +124,7 @@ class ITCompanies(PlacementManagement):
 		if self.cgpa<6.5:	
 			print("\nsorry! companies are not available because you have less cgpa")
 		else:
-			company_name=input("\nif you wants to apply for job enter the  campany name from the list of  core companies as mentioned above :\n")
+			company_name=input("\nif you wants to apply for job enter the  campany name from the list of  IT companies as mentioned above :\n")
 			if company_name in IT_companies.keys():
 				print("\nYou successfully applied for ",company_name)
 				print("\nThank you for choosing ITCompanies\n ")
